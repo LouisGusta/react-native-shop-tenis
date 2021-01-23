@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 import { View, Text, TouchableOpacity, Image, StyleSheet } from 'react-native'
 
 export default function Shoes(props) {
 
     function filterDesc(desc) {
         if (desc.length < 27) {
-            return desc;
+            return desc
         }
 
         return `${desc.substring(0, 23)}...`

@@ -5,10 +5,10 @@ usando icones e react-navigation.
 
 # Resultado: 
 ### Página de Home: 
-![Home do projeto.](./@git/assets/home.png "Home do projeto.")
+<img align="left" src="./@git/assets/home.PNG" width="280" />
 
 ### Topo da página de detalhe do produto: 
-![Página de detalhe.](./@git/assets/detail1.png "Página de detalhe.")
+<img align="left" src="./@git/assets/detail1.PNG" width="280" />
 
 ### Scroll de baixo da página de detalhe do produto: 
-![Página de detalhe scroll.](./@git/assets/detail1.png "Página de detalhe scroll.")
+<img align="left" src="./@git/assets/detail2.PNG" width="280" />
